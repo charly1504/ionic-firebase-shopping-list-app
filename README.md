@@ -1,1 +1,1 @@
-# Ionic-Firebase---Shopping-List-App
+# Ionic & Firebase - Shopping List App
